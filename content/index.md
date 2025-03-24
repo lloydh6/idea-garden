@@ -12,4 +12,7 @@ tags:
 
 ## Projects and Ideas
 
+- [[Projects and Ideas/Arthur Morgan LLM/One Pager|Arthur Morgan LLM]]
+- [[Projects and Ideas/Daily Dev Widget/One Pager|Daily Dev Wiget]]
+
 ## Glossary
