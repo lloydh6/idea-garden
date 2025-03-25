@@ -1,10 +1,10 @@
 ---
-title: "Daily Dev Widget"
+title: Daily Dev Widget
 draft: false
 tags:
   - HobbyProject
   - DailyDev
-  - PersonalWebsite,
+  - PersonalWebsite
 ---
 
 # The Idea
